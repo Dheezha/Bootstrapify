@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap');
+header{
+  color: #0F35FD;
+  background-color: #F3F2F5;
+
+}
+body{
+  background-color: #F3F2F5;
+  font-family: 'Roboto', sans-serif;
+}
+#flex{
+  margin-top: 10rem;
+}
+
+.when{
+  display: flex;
+  gap: 1.5rem;
+  
+}
+
+.contain{
+  background-image: url(../images/hand-painted-watercolor-background-with-sky-and-clouds-shape\ 1.png);
+}
+h3{
+  color: #0F35FD;
+  margin-left: 45%;
+}
+.col{
+  background-image: url(../images/Rectangle\ 14.png);
+  margin: 1.5rem;
+  background-color: transparent;
+  border-radius: 5%;
+  color:#FFFFFF; 
+}
+
